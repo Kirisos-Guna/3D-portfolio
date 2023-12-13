@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Kirisos Guna</span>
         👋
         <br />
-        A final year B.Sc Mathematics student from Trichy 🇭🇷
+        A final year B.Sc Mathematics student from Trichy 
       </h1>
     );
 
